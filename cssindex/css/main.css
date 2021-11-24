@@ -1,0 +1,17 @@
+.container{
+display: grid;
+}
+
+.el1{
+background-color:red;
+}
+
+.el2{
+background-color: brown;
+}
+.el3{
+background-color: blueviolet;
+}
+.el4{
+ background-color: black;
+}
